@@ -5,3 +5,6 @@ modifyCarousel = setInterval(() => {
         clearInterval(modifyCarousel);
     } 
 }, 500);
+
+//This script modifies the AP classroom assignment carousel by adding a scroll
+// bar for easy access to all the assignments.
