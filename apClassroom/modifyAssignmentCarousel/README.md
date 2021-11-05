@@ -18,9 +18,11 @@ Enable the rule and go on the AP website to check if it worked!
 # Versions
 There are multiple versions of this script available depending on what you want. If you want to use a different version, just use these URLs instead.
 
-The lite version updates less frequently and is somewhat minified, so it is useful for slow computers/connections. The V2.0 version does not remove the buttons, so if you like the buttons even with the scroll bar for some reason, you can keep them.
+The lite version updates less frequently and is somewhat minified, so it is useful for slow computers/connections. The V2.0 version does not remove the buttons, so if you like the buttons even with the scroll bar for some reason, you can keep them. And the V2.0 lite has both features.
 
 
 Lite version: https://stefyfreshschool.github.io/programs/scripts/apClassroom/modifyAssignmentCarouselLite.js
 
 V2.0 version: https://stefyfreshschool.github.io/programs/scripts/apClassroom/modifyAssignmentCarouselV2.0.js
+
+V2.0 lite version: https://stefyfreshschool.github.io/programs/scripts/apClassroom/modifyAssignmentCarouselLiteV2.0.js
